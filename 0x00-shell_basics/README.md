@@ -1,1 +1,1 @@
-Where am i
+Display contents in a long format
